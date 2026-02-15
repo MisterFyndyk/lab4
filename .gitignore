@@ -1,0 +1,18 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+.vs/
+.vscode/
+
+## Отладка
+*.log
+*.cache
+*.pidb
+*.sln.docstates
+
+## Temp
+tmp/
+temp/
